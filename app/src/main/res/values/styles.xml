@@ -1,0 +1,14 @@
+<resources>
+    <style name="Theme.AnhThePro"
+        parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+        <item name="colorPrimary">#075DCE</item>
+        <item name="colorPrimaryVariant">#003C9E</item>
+        <item name="colorSecondary">#F4B400</item>
+
+        <item name="android:fontFamily">sans</item>
+        <item name="android:statusBarColor">#064DA8</item>
+        <item name="android:windowLightStatusBar">false</item>
+
+    </style>
+</resources>
